@@ -8,43 +8,29 @@
     % endif
 </%block>
 
-<div class="row-fluid">
-    <div class="span3">
-        <!--Sidebar content-->
-        <div class="well sidebar-nav">
-            <ul class="nav nav-list">
-                % for post in posts:
-                <li><a href="${post['link']}">${post['title']}</a></li>
-                % endfor
-            </ul>
+<!--Body content-->
+% for post in posts:
+    <div class="post">
+        <div class="">
+            <h4 class="post-title"><a href="${post['link']}">${post['title']}</a></h4>
+        </div>
+        <div class="post-date">
+            Posted ${post['date']}
+        </div>
+        <div class="">
+            ${post['html']}
         </div>
     </div>
-    <div class="span9">
-        <!--Body content-->
-        % for post in posts:
-            <div class="post">
-                <div class="grid_6 alpha">
-                    <h1 class="post-title"><a href="${post['link']}">${post['title']}</a></h1>
-                </div>
-                <div class="grid_2 omega date">
-                    ${post['date']}
-                </div>
-                <div class="grid_8 post-body">
-                    ${post['html']}
-                </div>
-            </div>
-        % endfor
+% endfor
 
-        % if prev or next:
-            <div class="grid_8 pagenav alpha">
-                % if prev:
-                    <a href="${prev}">Previous</a> |
-                % endif
-                Page ${page} of ${pages}
-                % if next:
-                    | <a href="${next}">Next</a>
-                % endif
-            </div>
+% if prev or next:
+    <div class="">
+        % if prev:
+            <a href="${prev}">Previous</a> |
+        % endif
+        Page ${page} of ${pages}
+        % if next:
+            | <a href="${next}">Next</a>
         % endif
     </div>
-</div>
+% endif
