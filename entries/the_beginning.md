@@ -1,5 +1,5 @@
 title: The Adventure Begins
-date: 2013-05-04
+date: 2013-05-03
 
 This is a crazy thing we're doing.  Carolyn quit her secure, high paying job in January
 and I quit mine in the middle of April, so as I'm writing this we have no income. We've 

@@ -33,3 +33,10 @@ a.brand {
 .nav a {
     color: #000080;
 }
+
+.single a img {
+    display: block;
+    margin: 5px auto 5px auto;
+    padding: 5px;
+    border: 1px solid gray;
+}
