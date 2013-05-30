@@ -40,3 +40,16 @@ a.brand {
     padding: 5px;
     border: 1px solid gray;
 }
+
+#footer {
+    height: 60px;
+}
+
+.credit {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.pager li a {
+    color: #000080;
+}
