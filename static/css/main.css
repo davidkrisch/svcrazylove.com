@@ -15,6 +15,10 @@ h4 {
     margin: 260px 0 30px 0;
 }
 
+.post {
+    margin-top: 30px;
+}
+
 .post-title, .post-title > a {
     margin-bottom: 0;
     color: #000080;
