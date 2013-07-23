@@ -83,5 +83,5 @@ Its Saturday night and we are back on the boat.  The weather looks benign for
 the next few days so we plan to head to Morro Bay tomorrow.  The plan is to
 spend two days there and then head to San Simeon.  San Simeon (right next to
 Hearst Castle) will be a quick rest before the big (85 miles) jump to
-Monterrey.  We will stay in Monterrey for a while because we want to spend
+Monterey.  We will stay in Monterey for a while because we want to spend
 some time at the aquarium.
