@@ -29,6 +29,9 @@ image[bay_model_entrance, sausalito, The entrance to the Bay Model Visitor's Cen
 
 image[bay_model, sausalito, The Bay Model; In the center of the photo you can see the Golden Gate Bridge.]
 
+After the Bay Model, Carolyn made an amazing Clam Chowder that she's written about
+in the [In the Galley](galley.html) section on this [page](2013-08-11_Chowder_.html).
+
 On Sunday we walked to the modest Sausalito Farmer's market at Dunphy Park.  It had
 the essentials, but wasn't worth hanging around like the some of the other's we've
 experienced this summer; notably Santa Cruz.
