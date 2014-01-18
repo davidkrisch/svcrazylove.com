@@ -17,30 +17,38 @@ Michael Greenwald's book [The Cruising Chef Cookbook](http://www.amazon.com/Crui
 > Buy Wine --- plenty of that.  It's cheap and available in America, like nowhere else.
 
 I should have loaded up the bilge. But good tequila and rum are very affordable
-and mixed with V8 splash I feel like it fends of Montazuma's revenge and gives
+and mixed with V8 splash I feel like it fends off Montazuma's revenge and gives
 Dave and I a multivitamin boost in one tasty beverage.
 
 Canned or pouches of chicken are sparse.  However they have miles of canned tuna in
 every grocery spot. We did find pouched but spiced shredded chicken that is pretty
 tasty as long as you are in the mood for Mexican.
 
+image[pouch, amor, Pouches of refried beans and chicken.]
+
 Peanut butter. It's available, just expensive and I've found myself aboard with
 an unbelievably unexpected peanut butter snob. We've imported Santa Cruz's best
 direct from San Diego. Thanks Carol and Chris!!
 
+image[santacruz, amor, Santa Cruz peanut butter really is delicious.  Don't tell Dave.]
+
 Shelf stable milk in drink boxes now make cereal possible every so often.
 
-The bakery sections are incredible and there is a tortilleria in every store.  
-They taste so good.
+The bakery sections are incredible and there is a tortilleria in every store.  They taste so good.
 
 We're off the map a bit now away from the mass market grocers. But they still
 have everything we could need. And rest assured the 20 peso beers on the beach
 more than make up for any missed calories (if only).
 
+image[donkey, amor, Las Varas is the closest city for provisioning outside Chacala where we are currently anchored.  Apparently the donkey needed some provisions as well.]
+
 We do eat out, however there are plenty of nights we cook in.  
-Here are some Mexican inspired Crazy Love recipes:
+Here are some Mexican inspired Crazy Love (Amor Loco) recipes:
+
 
 __Pan Enchiladas__
+
+image[enchiladas, amor, Pan enchiliadas served with Crazy Love margaritas.]
 
 *  Poblano pepper
 *  Onion
@@ -58,15 +66,16 @@ cup of refried beans and the red salsa to taste (we like spicy). Heat through.
 Use corn tortillas. Fill, add some cheese and roll.  Place in the sauté pan.
 Fitting in as many that fit one layer in the pan.
 
-Pour the green salsa over the top and add a layer of cheese on top. Heat till
+Pour the green salsa over the top, layer with some of the extra filling if you like, and top with cheese. Heat till
 the cheese melts over medium heat.
 
-Serve with chips and the remaining filling on the side.
+Serve with chips and [Crazy Love margaritas.](2013-09-01_Margaritas_Crazy_Love_Style.html)
 
 Leftovers can easily be made into chilaquiles the next day for breakfast. 
 What are chilaquiles?  Only the best breakfast dish in all of Mexico.  Essentially
-breakfast nachos!
+breakfast nachos!  Fried corn tortillas, layered with the reheated leftovers and scrambled eggs.  
 
+image[chilas, amor, Chilaquiles Crazy Love style.]
 
 
 __Baja Papas__
@@ -74,6 +83,8 @@ __Baja Papas__
 We first saw these at a taco shop in Ensenada. They are a smashed loaded
 potato. You can get them topped with asada (seasoned beef),  chicken, chorizo, cheese...you get my
 drift.
+
+image[papas, amor, Baja Papas for dinner.]
 
 Our aboard version I like to think as slightly healthier mainly with a few added
 veggies.
