@@ -1,4 +1,4 @@
-title: Isla Islabela
+title: Isla Isabela
 date: 2014-04-01
 
 image[las_monas, isabela, Las Monas rocks on the East side of Isla Isabela.]
