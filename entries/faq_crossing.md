@@ -1,5 +1,12 @@
 title: FAQ: Sailing Banderas Bay to Hawaii 
-date: 2014-04-05
+date: 2014-04-14
+
+__When are you departing for Hawaii?__
+
+We have a little work to do on the boat in the next week or so.  Then we load up
+with fuel, water, and food. After that we get our exit papers and wait for good
+weather.  Once we get a good weather window, we make tracks.  We're hoping to get
+underway by April 25.
 
 __How far is the sail from Banderas Bay to Hawaii?__
 
