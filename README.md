@@ -1,20 +1,38 @@
-Installation 
+My cruising blog (svcrazylove.com) is a static website hosted in an s3 bucket.
 
-Before doing pip install -r requirements.txt, install libjpeg from:
+# Install & Configure
 
-http://ethan.tira-thompson.com/Mac_OS_X_Ports.html
+```bash
+cd ~/Documents
+git clone git@github.com:davidkrisch/svcrazylove.com.git
+cd svcrazylove.com
+pip install virtualenv
+virtualenv env
+source ./env/bin/activate
+pip install -r requirements.txt
+# Install s3cmd and set up keys
+brew install s3cmd
+s3cmd --configure  # Retrieve credientials from AWS console
+```
 
-Install s3cmd and set up keys
+# Generate html
 
-Generating the Site and Pushing it to S3
+```bash
+cd ~/Documents/svcrazylove.com
+benjen
+```
 
-To generate the site:
-    benjen
+# Generate images
 
-To generate the sites images:
-    python small.py 
-In ~/Documents/website-images
+```bash
+cd ~/Documents/website-images
+cp ../svcrazylove.com/small.py .
+python small.py
+```
 
-To upload the generated site to S3:
-    cd ~/Documents/svcrazylove.com/output
-    s3cmd sync . s3://svcrazylove.com
+# Deploy to S3
+
+```bash
+cd ~/Documents/svcrazylove.com/output
+s3cmd sync . s3://svcrazylove.com
+```
