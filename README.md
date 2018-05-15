@@ -1,4 +1,4 @@
-My cruising blog (svcrazylove.com) is a static website hosted in an s3 bucket.
+My cruising blog ([svcrazylove.com](http://svcrazylove.com)) is a static website hosted in an s3 bucket.
 
 # Install & Configure
 
