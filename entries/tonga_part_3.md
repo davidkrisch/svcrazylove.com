@@ -1,44 +1,39 @@
 title: Tonga, Part 3: 14 September - 29 September 2018
 date: 2019-02-08
 
-**Work in Progress**
+**WORK IN PROGRESS**
 
-Neiafu, Anchorages 11 and 30
+**Nieafu, Anchorages 11 and 30**
 
-*Friday, September 14th*
+*Nieafu*
 
-I was lucky to have a birthday shared with friends from Kuan Yin and Shamata
-at the best view in town as its name suggests Bella Vista.  A bottle of wine
-and lunch and in true Crazy Love style moved on to a mini pub crawl.  Hey you
-only turn 42 once.  The night ended with dancing at Basque Tavern.
+Friday, September 14th I was lucky to have a birthday shared with friends from
+Kuan Yin and Shamata  at the best view in town as its name suggests, Bella
+Vista.  A bottle of wine and lunch and in true Crazy Love style moved on to a
+mini pub crawl.  Hey you only turn 42 once.  The night ended with dancing at
+Basque Tavern with the Danish ladies.
 
-*Saturday*
-
-We caught another rugby game at Refuge (those Springboks actually won against
-the All Blacks), ate more fish and chips,
-
-*Sunday*
-
-Invited aboard Desiderata for Sunday roast with Stuart and Julia.  These folks
-know how to put on a 3 course dinner and let me tell you it was the most
+Saturday we recovered and then caught another rugby game at Refuge (those
+Springboks actually won against the All Blacks), ate more fish and chips,  and
+were invited aboard Desiderata for Sunday roast with Stuart and Julia.  These
+folks know how to put on a 3 course dinner and let me tell you it was the most
 delicious meal I had in Nieafu - crab topped with caviar over fresh tomatoes
-and a pork roast (they called it crackling pig) the make my mouth water as I
-write this.
+and a pork roast that makes my mouth water as I write this.   Monday the
+country celebrated the Prince’s birthday (all government offices were closed)
+and yet another friend from Samoa came through Tonga, drinks and games aboard
+Charabia with Mark and Helen.
 
-*Monday*
+Our visas were due to expire soon, therefore on Tuesday we made a quick trip to
+immigration for an extension.  Granted quite easily for $60 TOP per person per
+month.  We extended an additional month through Oct 23.  Some provisioning and
+we were ready for a few more anchorages away from town.
 
-Tonga celebrated the Prince’s birthday and yet another friend from Samoa
-came through Tonga, drinks and games aboard Charabia with Mark and Helen.
+*Anchorage 11, Tapana*
 
-Our visas were due to expire soon, therefore a quick trip to immigration for an
-extension.  Granted quite easily for $60 TOP per person per month.  We extended
-an additional month through Oct 23.  Some provisioning and we were ready for a
-few more anchorages away from town.
-
-Anchorage 19, Tapana - Wednesday we headed out to Tapana, a highly recommended
-spot by a number of sailors.  We arrived and felt at home immediately.   There
-are a few boats moored here year round and a few moorings up for grabs for a
-price.  Anchoring away from the crowd seemed like a good plan.  Anchor set in a
+Wednesday, September 19 we headed out to Tapana, a highly recommended spot by a
+number of sailors.  We arrived and felt at home immediately.   There are a few
+boats moored here year round and a few moorings up for grabs for a price.
+Anchoring away from the crowd seemed like a good plan.  Anchor set in a
 somewhat sandy bottom and a swim was in order. The next day greeted us with the
 most rain I’ve seen come down in a day.  Between buckets and pots we collected
 6 or so gallons of the best tasting rain water. The sun came back out Friday
@@ -46,38 +41,44 @@ and the swimming was great, although not much coral.  A school of squid swam by
 and looked completely surreal.  Friday night ended with a lovely happy hour
 sunset with the local crew - Sherry, Larry, Carl and Mike as well as MIke’s
 friend Margot.  The next day Dave dinghied us ashore and we took the 3 or so
-mile walk back to town, mostly to get a feel of this side of the island.  There
-were cows.. .lots of cows, beautiful vistas and so many helpful Tongans
-stopping to offer us a ride, looking quite baffled when we were content to walk
-on.   An additional rum bottle acquired, lunch and we trekked it back.  We were
-so content at an
+mile walk back to town (Neiafu), mostly to get a feel of this side of the
+island.  There were cows...lots of cows, beautiful vistas and so many helpful
+Tongans stopping to offer us a ride, looking quite baffled when we were content
+to walk on.   An additional rum bottle acquired, lunch and we trekked it back.
 
-*Sunday September 23rd*
+Sunday the 23rd through Wednesday September 26
 
-Clean stove, drinks w sherry and Larry on their catamaran.
+We were so content at this anchorage we stayed a few more days.. doing some
+boat chores, but mostly relaxing in the Tongan sun.  The stove was cleaned, the
+topping lift replaced with the line we bought in town, and the v-berth
+reorganized … watched some movies and visited a little more with Sherry and
+Larry. On Wednesday we decided it was time to make moves and we headed over to
+the next anchorage.
 
-*Monday September 24th*
 
-Replaced topping lift / watched movie
+*Anchorage 30, Kenutu*
 
-*Tuesday September 25*
+The sail and motor sail over was a little daunting through the reefs but the
+Navionics and the clarity of the water were right on.  There were a few
+nail-biting shallow spots - but we only have 4 foot draft.  Another advantage
+to a small sailboat.  It was a large anchorage able to fit many boats.  There
+were just a few already anchored.
 
-Sunny beautiful day on boat. Repacked v berth. Stopped for a visit with Sherri
-and Larry for series.
+The beach on this island is absolutely beautiful and the row in super easy.  A
+quick hike to the other side and you are rewarded with breathtaking crashing
+waves.
 
-*Wednesday, September 26th*
+We spent Thursday and Friday hanging on the beach - enjoying the rare beauty of
+an undeveloped coast.
 
-Move to anchor #30
+As much as we would have loved staying a few more days, it seemed some weather
+was moving in toward the Vava’u Group and it was either stay at anchor for
+another week or move in toward town.  Rum provisions were low so we figured we
+better head back to Neiafu.
 
-*Thursday*
-
-beach day/ Dave cleaned bottom / shower   Hike to other side
-
-*Friday*
-
-Hike to other side:Beach day
-
-*Saturday*
-
-Fabulous sail to Neiafu/ shower cold beer and pizza. Meet up Zensation, Aloha,
-Love
+On Saturday the 29th - The sail was as good as it gets.  The town was getting
+ready for the start of the Blue Water Festival so as expected there were no
+open moorings.  We dropped hook in front of the big hotel between coral heads
+and moored local boats.  As always the cold shower felt amazing, almost as
+amazing as the cold beer and pizza at Refuge.  Bonus we ran into Zensation,
+Aloha and Love (all boats we’d first met in American Samoa).
