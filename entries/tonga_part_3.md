@@ -1,11 +1,12 @@
 title: Tonga, Part 3: 14 September - 29 September 2018
 date: 2019-02-08
 
-**WORK IN PROGRESS**
-
 **Nieafu, Anchorages 11 and 30**
 
 *Nieafu*
+
+
+image[BirthdayLunch, tonga_3, Bella Vista Birthday with David Keely Josh Helen and Jean.]
 
 Friday, September 14th I was lucky to have a birthday shared with friends from
 Kuan Yin and Shamata  at the best view in town as its name suggests, Bella
@@ -13,7 +14,11 @@ Vista.  A bottle of wine and lunch and in true Crazy Love style moved on to a
 mini pub crawl.  Hey you only turn 42 once.  The night ended with dancing at
 Basque Tavern with the Danish ladies.
 
-Saturday we recovered and then caught another rugby game at Refuge (those
+
+image[DancingRooster, tonga_3, Dave and I followed lunch with a drink at the Dancing Rooster.]
+
+image[BasqueTavern, tonga_3, And on to Refuge followed by Basque Tavern for dancing.]
+Saturday we recovered and then caught another rugby game at Refuge (those
 Springboks actually won against the All Blacks), ate more fish and chips,  and
 were invited aboard Desiderata for Sunday roast with Stuart and Julia.  These
 folks know how to put on a 3 course dinner and let me tell you it was the most
@@ -23,12 +28,17 @@ country celebrated the Prince’s birthday (all government offices were closed)
 and yet another friend from Samoa came through Tonga, drinks and games aboard
 Charabia with Mark and Helen.
 
+
+image[Nieafu_Moorings, tonga_3, A view of the Nieafu Moorings from town.]
+
 Our visas were due to expire soon, therefore on Tuesday we made a quick trip to
 immigration for an extension.  Granted quite easily for $60 TOP per person per
 month.  We extended an additional month through Oct 23.  Some provisioning and
 we were ready for a few more anchorages away from town.
 
 *Anchorage 11, Tapana*
+
+image[DaveRowing_22Sep, tonga_3, Anchorage 11 with Dave rowing Mr. Albert.]
 
 Wednesday, September 19 we headed out to Tapana, a highly recommended spot by a
 number of sailors.  We arrived and felt at home immediately.   There are a few
@@ -46,6 +56,13 @@ island.  There were cows...lots of cows, beautiful vistas and so many helpful
 Tongans stopping to offer us a ride, looking quite baffled when we were content
 to walk on.   An additional rum bottle acquired, lunch and we trekked it back.
 
+image[RainBucket, tonga_3, Excellent drinking water collected.  One bucket at a time.]
+
+image[SweepingViews, tonga_3, Just one of many beautiful views walking to town.]
+
+image[Tapana_LongRow, tonga_3, After our walk it was a bit of a long row back to the anchorage.  Good thing Dave has become a bit of an expert rower.]
+
+
 Sunday the 23rd through Wednesday September 26
 
 We were so content at this anchorage we stayed a few more days.. doing some
@@ -58,6 +75,9 @@ the next anchorage.
 
 *Anchorage 30, Kenutu*
 
+image[AnchorageKenutu, tonga_3, A large anchorage with only a few boats at Kenutu.]
+
+
 The sail and motor sail over was a little daunting through the reefs but the
 Navionics and the clarity of the water were right on.  There were a few
 nail-biting shallow spots - but we only have 4 foot draft.  Another advantage
@@ -68,8 +88,14 @@ The beach on this island is absolutely beautiful and the row in super easy.  A
 quick hike to the other side and you are rewarded with breathtaking crashing
 waves.
 
+image[ParadiseFound, tonga_3, Paradise found.  Post card picture perfect.]
+
+image[CrashingWaves, tonga_3, Just a short hike to the other side and stunning crashing waves.]
+
 We spent Thursday and Friday hanging on the beach - enjoying the rare beauty of
 an undeveloped coast.
+
+image[BeachKenutu, tonga_3, Almost our own private undeveloped beach.]
 
 As much as we would have loved staying a few more days, it seemed some weather
 was moving in toward the Vava’u Group and it was either stay at anchor for
@@ -82,3 +108,7 @@ open moorings.  We dropped hook in front of the big hotel between coral heads
 and moored local boats.  As always the cold shower felt amazing, almost as
 amazing as the cold beer and pizza at Refuge.  Bonus we ran into Zensation,
 Aloha and Love (all boats we’d first met in American Samoa).
+
+image[CLAnchor_Kenutu, tonga_3, A view of Crazy Love at anchor from the beach.]
+
+
